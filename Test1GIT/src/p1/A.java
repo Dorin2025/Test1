@@ -6,6 +6,7 @@ public class A {
 		// TODO Auto-generated method stub
 		System.out.println("Primul mesaj");
 		System.out.println("Al 2-lea mesaj");
+		System.out.println("Al 3-lea mesaj");
 
 	}
 
