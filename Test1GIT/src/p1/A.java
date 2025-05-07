@@ -11,6 +11,7 @@ public class A {
 		System.out.println("Al 5-lea mesaj");
 		System.out.println("Al 6-lea mesaj");
 		System.out.println("Al 7-lea mesaj");
+		System.out.println("Al 8-lea mesaj");
 
 	}
 
